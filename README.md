@@ -10,6 +10,6 @@ the dataset for the paper called "ParsBERT Post-Training for Sentiment Analysis 
       - the second one is **"labeled data"** which is an excel that includes just the tweets and their classes.
 ![alt text](https://github.com/iamjalipo/Paper_1st-dataset/blob/main/second.jpg)
 
-/b 
+/br 
 
 ## Do enjoy and feel free to ask anything
