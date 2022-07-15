@@ -12,4 +12,4 @@ the dataset for the paper called "ParsBERT Post-Training for Sentiment Analysis 
 
 <br/> 
 
-- [x] [***Do enjoy and feel free to ask anything***](jalalpouromid@gmail.com)
+- [x] <a href="jalalpouromid@gmail.com">***Do enjoy and feel free to ask anything***</a>
